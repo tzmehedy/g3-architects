@@ -159,3 +159,22 @@ section{
     border: 1px solid #FF900E;
     padding: 10px;
 }
+.sponser-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.sponser-text{
+    text-align: center;
+}
+.sponser-container div{
+    margin-top: 30px;
+}
+.sponser-logos{
+    display: flex;
+    justify-content: space-around;
+}
+.sponser-logo{
+    margin: 20px;
+}
